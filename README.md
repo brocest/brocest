@@ -1,4 +1,4 @@
-<p align="center">${{\color{#eb0000}\texttt{"ICEBERGGGGGGGG!"}}}$
+<p align="center"><img src="https://raw.githubusercontent.com/brocest/blinkies/main/uhhhh.gif">${{\color{#eb0000}\texttt{"ICEBERGGGGGGGG!"}}}$<img src="https://raw.githubusercontent.com/brocest/blinkies/main/red%20army.png">
 
 <p align="center">  󠀠 ⠀ <a href="https://brocest.atabook.org/">atabook</a> 󠀠 ⠀ <a href="https://striderbroo.straw.page">strawpage</a> 󠀠 ⠀ <a 
 
