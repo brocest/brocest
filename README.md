@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/rage-stamp.png"> 󠀠 󠀠 ⠀ ${{\color{#eb0000}\texttt{}}}$
+<p align="center">⠀ ${{\color{#eb0000}\texttt{}}}$
 
 <p align="center">  󠀠 ⠀ <a href="https://brocest.atabook.org/">atabook</a> 󠀠 ⠀ <a href="https://striderbroo.straw.page">strawpage</a> 󠀠 ⠀ <a 
 
