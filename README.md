@@ -1,4 +1,4 @@
-<p align="center">${{\color{#eb0000}\texttt{"CLOUDDD BERGGGGGGGG!"}}}$
+<p align="center">${{\color{#2b0057}\texttt{"hOnK :o)"}}}$
 
 <p align="center"><img src="https://raw.githubusercontent.com/brocest/blinkies/main/red%20army.png"><img src="https://raw.githubusercontent.com/brocest/blinkies/main/uhhhh.gif">
 
